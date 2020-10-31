@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "php": ">=7.4.3",
+        "php": ">=7.2.32",
         "symfony/http-kernel": "^5.1",
         "symfony/framework-bundle": "^5.1",
         "symfony/dotenv": "^5.1",
