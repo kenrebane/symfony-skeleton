@@ -47,7 +47,7 @@ class TestController extends AbstractController
 
         if ($this->client->savePayment())
         {
-            
+
         }
 
         return $this->json([
